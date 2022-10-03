@@ -70,5 +70,3 @@ int main()
 		<< getSingle(arr, n);
 	return 0;
 }
-
-// This code is contributed by rathbhupendra
