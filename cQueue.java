@@ -195,5 +195,3 @@ public static void main(String[] args)
 	q.enQueue(20);
 }
 }
-
-// This code is contributed by Amit Mangal.
