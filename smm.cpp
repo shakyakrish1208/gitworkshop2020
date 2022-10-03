@@ -157,6 +157,3 @@ int main()
 	print("Result Array", result_matrix, 0, 0, ROW_1 - 1,
 		COL_2 - 1);
 }
-
-// Time Complexity: O(n^3)
-// Code Contributed By: lucasletum
